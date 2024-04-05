@@ -1,6 +1,6 @@
 # MacroEconomics
 
-The **PESTLE (or PESTEL)** model is a strategic management tool used to analyze and identify the key external factors (Political, Economic, Socio-cultural, Technological, Legal, and Environmental) that can impact an organization or business environment. Implementing the PESTLE model in **R** involves gathering relevant data for each factor, conducting analysis, and interpreting the results. Here's a general guideline on how you can implement the PESTLE model using R:
+The **PESTLE (or PESTEL)** model is a strategic management tool used to analyze and identify the key external factors (Political, Economic, Socio-cultural, Technological, Legal, and Environmental) that can impact an organization or business environment. Implementing the PESTLE model in **R** involves gathering relevant data for each factor, conducting analysis, and interpreting the results.
 
 ## Perform separate analyses for each component of the PESTLE framework:
 **Political Analysis**: Examine political factors such as government stability, policies, regulations, and trade agreements that may affect the organization or industry.
