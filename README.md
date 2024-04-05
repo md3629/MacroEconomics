@@ -9,8 +9,10 @@ The **PESTLE (or PESTEL)** model is a strategic management tool used to analyze 
 
 <img src="/pics/Macro-0.jpg" width="50%" />
 <img src="/pics/Macro-2.jpg" width="50%" />
+
 **Socio-cultural Analysis**: Investigate socio-cultural factors including demographics, cultural trends, social attitudes, lifestyle changes, and consumer behavior patterns.
 <img src="/pics/Macro-1.jpg" width="100%" />
+
 **Technological Analysis**: Assess technological advancements, innovation trends, digital transformation, and disruptive technologies that could influence the organization's operations and competitiveness.
 
 **Legal Analysis**: Review legal factors such as legislation, regulatory requirements, compliance issues, and legal risks affecting the business environment.
