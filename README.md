@@ -16,6 +16,8 @@ The **PESTLE (or PESTEL)** model is a strategic management tool used to analyze 
 
 **Technological Analysis**: Assess technological advancements, innovation trends, digital transformation, and disruptive technologies that could influence the organization's operations and competitiveness.
 
+> "Adoption rate" refers to the percentage or proportion of a population that has adopted or accepted a particular technology, product, or innovation within a given time period. It is often used as a measure to assess the level of acceptance or penetration of a new technology or innovation in a market or society.
+
 **Legal Analysis**: Review legal factors such as legislation, regulatory requirements, compliance issues, and legal risks affecting the business environment.
 
 **Environmental Analysis**: Evaluate environmental factors including climate change, sustainability concerns, environmental regulations, and resource availability impacting the organization's sustainability and operations.
