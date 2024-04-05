@@ -8,7 +8,7 @@ The **PESTLE (or PESTEL)** model is a strategic management tool used to analyze 
 **Economic Analysis**: Analyze economic indicators such as GDP growth, inflation rates, interest rates, exchange rates, and market trends impacting the business environment.
 <img src="/pics/Macro-0.jpg" width="100%" />
 **Socio-cultural Analysis**: Investigate socio-cultural factors including demographics, cultural trends, social attitudes, lifestyle changes, and consumer behavior patterns.
-
+<img src="/pics/Macro-1.jpg" width="100%" />
 **Technological Analysis**: Assess technological advancements, innovation trends, digital transformation, and disruptive technologies that could influence the organization's operations and competitiveness.
 
 **Legal Analysis**: Review legal factors such as legislation, regulatory requirements, compliance issues, and legal risks affecting the business environment.
@@ -21,7 +21,7 @@ Discussing process and experimenting with Macro Economics - with Power BI
 <img src="/pics/Population.jpeg" width="100%" />
 
 
-<img src="/pics/Macro-1.jpg" width="100%" />
+
 
 <img src="/pics/Macro-2.jpg" width="100%" />
 
