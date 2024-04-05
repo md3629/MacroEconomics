@@ -21,8 +21,4 @@ The **PESTLE (or PESTEL)** model is a strategic management tool used to analyze 
 
 Discussing process and experimenting with Macro Economics - with Power BI
 
-<img src="/pics/Population.jpeg" width="100%" />
-
-
-
- 
+<img src="/pics/Population.jpeg" width="50%" />
