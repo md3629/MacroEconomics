@@ -6,6 +6,7 @@ The **PESTLE (or PESTEL)** model is a strategic management tool used to analyze 
 **Political Analysis**: Examine political factors such as government stability, policies, regulations, and trade agreements that may affect the organization or industry.
 
 **Economic Analysis**: Analyze economic indicators such as GDP growth, inflation rates, interest rates, exchange rates, and market trends impacting the business environment.
+
 <img src="/pics/Macro-0.jpg" width="50%" />
 <img src="/pics/Macro-2.jpg" width="50%" />
 **Socio-cultural Analysis**: Investigate socio-cultural factors including demographics, cultural trends, social attitudes, lifestyle changes, and consumer behavior patterns.
